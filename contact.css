@@ -9,7 +9,7 @@
 }
 body{
     /*background: rgb(131,58,180);*/
-    background: linear-gradient(90deg, rgba(131, 58, 180, 0.63) 9%, rgba(253, 29, 29, 0.63) 29%, rgba(243, 69, 252, 0.63) 100%);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 0.589) 9%, rgba(253, 29, 29, 0.418) 49%, rgba(243, 69, 252, 0.63) 100%);
 }
 .contactUs
 {
@@ -32,8 +32,7 @@ body{
 .form
 {
     grid-area: form;
-    background: linear-gradient(90deg, rgba(131,58,180,1) 9%, rgba(253,29,29,0.7906512946975666) 29%, rgba(244,69,252,1) 100%);
-
+    
 }
 .info
 {
